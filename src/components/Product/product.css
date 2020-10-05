@@ -1,0 +1,11 @@
+.bigBtn{
+    border-radius: 10px 10px 5px 5px;
+    font-size: 15px;
+    font-weight: 900;
+}
+.bigBtn:hover{
+    box-shadow: 5px 5px 20px gray;
+    cursor: pointer;
+    color: #fff;
+    text-shadow: 5px 5px 20px gray;
+}
